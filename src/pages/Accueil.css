@@ -1,0 +1,14 @@
+.header-content {
+    text-align: center;
+    color: #333; /* couleur du texte de l'en-tête */
+    padding: 100px 0; /* espacement intérieur de l'en-tête */
+}
+
+.header-content h1 {
+    font-size: 3em; /* taille de la police du titre */
+}
+
+.header-content p {
+    font-size: 1.5em; /* taille de la police du texte */
+    margin-bottom: 30px; /* espacement en bas du texte */
+}

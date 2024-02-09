@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(161, 137, 168);
+
+}
+div{
+    margin-top: 30px;
+}
+.container{
+    border-radius: 60px;
+}
+h2{
+    color:rgb(255, 255, 255);
+}
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
